@@ -1,2 +1,2 @@
-# samplejavaapp
-# Hi this is T sampleApplication 
+
+Sample Java Applicaiton V2.5
